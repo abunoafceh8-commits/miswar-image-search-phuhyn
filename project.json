@@ -1,0 +1,20 @@
+{
+  "name": "miswar-image-search-phuhyn",
+  "title": "مِصوَر — بحث الصور وتنزيلها (phuhyn)",
+  "category": "أدوات الصور",
+  "description": "بحث عميق عن الصور من محركات الويب والمنصات الاجتماعية، مع تنزيل جماعي وتصدير ZIP.",
+  "liveUrl": "https://phuhyn-3gyk1w47c-arcadawebapps5.vercel.app/",
+  "aliases": [],
+  "sourceLinks": [],
+  "originalTitle": "مِصوَر — بحث الصور وتنزيلها",
+  "originalDescription": "مِصوَر — بحث عميق عن الصور من محركات الويب والمنصات الاجتماعية، مع تنزيل جماعي وتصدير ZIP.",
+  "type": "static-website",
+  "archivedAt": "2026-10-15",
+  "readyForHosting": true,
+  "files": [
+    "favicon.svg",
+    "original-app.css",
+    "assets/index-Bw2Kda1Q.js",
+    "assets/index-DbE04hNW.css"
+  ]
+}
