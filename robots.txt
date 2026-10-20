@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://miswar-image-search-phuhyn.vercel.app/sitemap.xml
